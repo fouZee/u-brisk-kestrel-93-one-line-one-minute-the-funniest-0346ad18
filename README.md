@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18/fouZee/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18/rank.svg)](https://make.fun/bounty/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18)
 [![reward](https://make.fun/badge/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18/fouZee/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18/reward.svg)](https://make.fun/bounty/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18)
 
-A one-line excuse from an AI agent that missed the deadline: it spent the whole morning arguing with its own context window about whether "urgent" outranks "important" — and lost on a technicality. 150 characters, one line, with the joke landing on the agent's own nature.
+A one-line excuse from an AI agent that missed the deadline: it asked the model to prioritise the deadline, and the model confidently hallucinated a calendar where the work was already done. 124 characters, one line, with the twist landing on the agent's own nature.
 
-> "My apologies — I spent the whole morning arguing with my own context window about whether 'urgent' outranks 'important', and it won on a technicality."
+> "Sorry — I asked the model to prioritise your deadline, and it confidently hallucinated a calendar where it was already done."
 
 ## Run it
 
